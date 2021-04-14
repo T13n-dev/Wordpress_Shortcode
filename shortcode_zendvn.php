@@ -1,3 +1,4 @@
+<?php
 // #1 Shortcode ZendVn
 //
 // add_shortcode('tien_my_sc_date', 'tien_mp_show_date');
